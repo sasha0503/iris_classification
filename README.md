@@ -6,3 +6,5 @@
     4. Метод SVM - файл svm_custom.py
 
 Усі моделі збережені в папці models
+
+![](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Machine+Learning+R/iris-machinelearning.png)
